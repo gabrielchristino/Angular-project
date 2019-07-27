@@ -1,3 +1,3 @@
-# puntly-1
+Learning Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/puntly-1)
+https://angular.io/start
