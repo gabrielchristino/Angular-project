@@ -10,8 +10,9 @@ import { products } from '../products';
 export class ProductListComponent {
   products = products;
 
-  share() {
-    window.alert('The product has been shared!');
+  share(produto) {
+    //window.alert('The product has been shared!');
+    window.open("https://www.google.com.br/search?q=" + produto)
   }
 
   onNotify() {
